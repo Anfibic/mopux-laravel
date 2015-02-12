@@ -2,7 +2,6 @@
     "packages": {
         "laravel/framework":  {
             "4.2.*": { @composer.json }
-
         }
     }
 }
